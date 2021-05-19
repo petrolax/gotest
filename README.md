@@ -1,0 +1,2 @@
+# gotest
+Test module creation
